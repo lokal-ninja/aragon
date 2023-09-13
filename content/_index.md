@@ -1,0 +1,1 @@
+Aragón​ es una comunidad autónoma española, resultante del reino histórico homónimo y que comprende el tramo central del valle del Ebro, los Pirineos centrales y parte del sistema Ibérico, al norte del país. Está definida en su estatuto de autonomía como nacionalidad histórica. (Wikipedia)
