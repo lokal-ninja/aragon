@@ -1,5 +1,5 @@
 ---
 title: "Bogar"
-url: /zaragoza/bogar/
+url: /zaragoza/bogar-calle-del-coso/
 shop: zapatos
 ---

@@ -1,6 +1,6 @@
 ---
 title: Senegüé
-url: /seneguee/
+url: /senegue/
 latitude: 42.539
 longitude: -0.356
 ---

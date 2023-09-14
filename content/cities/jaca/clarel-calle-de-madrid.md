@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /jaca/clarel/
+url: /jaca/clarel-calle-de-madrid/
 shop: farmacia
 ---

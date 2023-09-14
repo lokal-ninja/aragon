@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
-url: /pedrola/peluqueria/
+url: /pedrola/peluqueria-calle-teruel/
 shop: peluquería
 ---

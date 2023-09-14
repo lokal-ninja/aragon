@@ -1,5 +1,5 @@
 ---
 title: "Adidas & Reebok Outlet Store Caspe"
-url: /caspe/adidas-und-reebok-outlet-store-caspe/
+url: /caspe/adidas-y-reebok-outlet-store-caspe/
 shop: ropa
 ---

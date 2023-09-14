@@ -1,5 +1,5 @@
 ---
 title: "Joyería Muñoz & Ángel García"
-url: /jaca/joyeria-munoz-und-angel-garcia/
+url: /jaca/joyeria-munoz-y-angel-garcia/
 shop: joyería
 ---

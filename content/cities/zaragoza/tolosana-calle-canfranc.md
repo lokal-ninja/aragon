@@ -1,5 +1,5 @@
 ---
 title: "Tolosana"
-url: /zaragoza/tolosana/
+url: /zaragoza/tolosana-calle-canfranc/
 shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia & Go"
-url: /zaragoza/dia-und-go/
+url: /zaragoza/dia-y-go/
 shop: comodidad
 ---

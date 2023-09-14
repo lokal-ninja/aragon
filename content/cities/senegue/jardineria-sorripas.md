@@ -1,5 +1,5 @@
 ---
 title: "Jardinería Sorripas"
-url: /seneguee/jardineria-sorripas/
+url: /senegue/jardineria-sorripas/
 shop: centro de jardinería
 ---

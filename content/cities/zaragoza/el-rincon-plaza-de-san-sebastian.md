@@ -1,5 +1,5 @@
 ---
 title: "El Rincón"
-url: /zaragoza/el-rincon/
+url: /zaragoza/el-rincon-plaza-de-san-sebastian/
 shop: confitería
 ---

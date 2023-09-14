@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /zaragoza/mercadona/
+url: /zaragoza/mercadona-calle-de-san-vicente-de-paul/
 shop: supermercado
 ---

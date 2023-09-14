@@ -1,5 +1,5 @@
 ---
 title: "Carlota"
-url: /jaca/carlota/
+url: /jaca/carlota-calle-del-carmen/
 shop: ropa
 ---

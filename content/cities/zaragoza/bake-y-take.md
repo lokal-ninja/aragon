@@ -1,5 +1,5 @@
 ---
 title: "Bake & Take"
-url: /zaragoza/bake-und-take/
+url: /zaragoza/bake-y-take/
 shop: charcutería
 ---

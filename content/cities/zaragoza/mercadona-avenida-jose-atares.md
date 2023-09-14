@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /zaragoza/mercadona/
+url: /zaragoza/mercadona-avenida-jose-atares/
 shop: supermercado
 ---

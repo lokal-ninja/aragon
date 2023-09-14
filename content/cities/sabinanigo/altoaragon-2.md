@@ -1,5 +1,5 @@
 ---
 title: "Altoaragón"
-url: /sabinanigo/altoaragon/
+url: /sabinanigo/altoaragon-2/
 shop: comercio
 ---

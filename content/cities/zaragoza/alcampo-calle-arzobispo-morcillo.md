@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /zaragoza/alcampo/
+url: /zaragoza/alcampo-calle-arzobispo-morcillo/
 shop: supermercado
 ---

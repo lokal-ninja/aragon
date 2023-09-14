@@ -1,5 +1,5 @@
 ---
 title: "L&T Informática Apple"
-url: /zaragoza/lundt-informatica-apple/
+url: /zaragoza/lyt-informatica-apple/
 shop: ordenador
 ---
