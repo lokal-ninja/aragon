@@ -1,5 +1,5 @@
 ---
-title: "BICIMARKET"
+title: "Bicimarket"
 url: /zaragoza/bicimarket/
 shop: bicicleta
 ---
