@@ -1,6 +1,6 @@
 ---
 title: Aínsa
 url: /ainsa/
-latitude: 42.414
-longitude: 0.14
+latitude: 42.417
+longitude: 0.139
 ---
