@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /zaragoza/cex/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chic"
 url: /huesca/chic/
-shop: joyería
+shop: Schmuck
 ---

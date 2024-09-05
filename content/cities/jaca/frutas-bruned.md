@@ -1,5 +1,5 @@
 ---
 title: "Frutas Bruned"
 url: /jaca/frutas-bruned/
-shop: frutería
+shop: Gemüse & Obst
 ---

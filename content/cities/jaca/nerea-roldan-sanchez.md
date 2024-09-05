@@ -1,5 +1,5 @@
 ---
 title: "Nerea Roldán Sánchez"
 url: /jaca/nerea-roldan-sanchez/
-shop: bicicleta
+shop: Fahrrad
 ---

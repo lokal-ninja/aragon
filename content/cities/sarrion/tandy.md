@@ -1,5 +1,5 @@
 ---
 title: "Tandy"
 url: /sarrion/tandy/
-shop: comodidad
+shop: Lebensmittel
 ---

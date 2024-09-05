@@ -1,5 +1,5 @@
 ---
 title: "Singularu"
 url: /zaragoza/singularu/
-shop: joyería
+shop: Schmuck
 ---

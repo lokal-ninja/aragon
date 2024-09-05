@@ -1,5 +1,5 @@
 ---
 title: "Panadería A Cadiera"
 url: /escarrilla/panaderia-a-cadiera/
-shop: panadería
+shop: Bäckerei
 ---

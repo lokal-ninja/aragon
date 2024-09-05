@@ -1,5 +1,5 @@
 ---
 title: "Calari"
 url: /calatorao/calari/
-shop: frutería
+shop: Gemüse & Obst
 ---

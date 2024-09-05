@@ -1,5 +1,5 @@
 ---
 title: "Maricastaña"
 url: /jaca/maricastana/
-shop: ropa
+shop: Kleidung
 ---

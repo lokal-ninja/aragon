@@ -1,5 +1,5 @@
 ---
 title: "Stil"
 url: /zaragoza/stil/
-shop: cortina
+shop: Gardinen
 ---

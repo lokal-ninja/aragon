@@ -1,5 +1,5 @@
 ---
 title: "Mercería Solana"
 url: /sabinanigo/merceria-solana/
-shop: coser
+shop: Nähzubehör
 ---

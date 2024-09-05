@@ -1,5 +1,5 @@
 ---
 title: "Vitalia"
 url: /jaca/vitalia/
-shop: masaje
+shop: Massage
 ---

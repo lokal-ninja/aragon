@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /zaragoza/bonarea/
-shop: supermercado
+shop: Supermarkt
 ---

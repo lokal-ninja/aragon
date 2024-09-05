@@ -1,5 +1,5 @@
 ---
 title: "Silvia"
 url: /estadilla/silvia/
-shop: peluquería
+shop: Friseur
 ---

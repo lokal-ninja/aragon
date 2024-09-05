@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /zaragoza/clarel/
-shop: farmacia
+shop: Drogerie
 ---

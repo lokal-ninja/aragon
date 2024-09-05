@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Lázaro"
 url: /sabinanigo/zapateria-lazaro/
-shop: zapatos
+shop: Schuhe
 ---

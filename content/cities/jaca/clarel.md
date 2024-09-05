@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /jaca/clarel/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VSancho"
 url: /caspe/vsancho/
-shop: agraria
+shop: Landwirtschaftlich
 ---

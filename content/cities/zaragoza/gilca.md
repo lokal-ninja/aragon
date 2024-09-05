@@ -1,5 +1,5 @@
 ---
 title: "Gilca"
 url: /zaragoza/gilca/
-shop: cosméticos
+shop: Kosmetik
 ---

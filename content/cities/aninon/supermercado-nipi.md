@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Nipi"
 url: /aninon/supermercado-nipi/
-shop: supermercado
+shop: Supermarkt
 ---

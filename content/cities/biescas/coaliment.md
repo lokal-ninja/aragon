@@ -1,5 +1,5 @@
 ---
 title: "CoAliment"
 url: /biescas/coaliment/
-shop: supermercado
+shop: Supermarkt
 ---

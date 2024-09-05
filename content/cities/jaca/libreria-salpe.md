@@ -1,5 +1,5 @@
 ---
 title: "Librería Salpe"
 url: /jaca/libreria-salpe/
-shop: libros
+shop: Bücher
 ---

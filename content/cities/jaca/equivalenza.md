@@ -1,5 +1,5 @@
 ---
 title: "Equivalenza"
 url: /jaca/equivalenza/
-shop: perfumería
+shop: Parfümerie
 ---

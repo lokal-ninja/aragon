@@ -1,5 +1,5 @@
 ---
 title: "Colchones Vela"
 url: /zaragoza/colchones-vela/
-shop: cama
+shop: Betten
 ---

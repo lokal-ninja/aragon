@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /jaca/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

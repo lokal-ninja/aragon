@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /graus/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

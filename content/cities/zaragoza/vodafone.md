@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /zaragoza/vodafone/
-shop: teléfono móvil
+shop: Handy
 ---

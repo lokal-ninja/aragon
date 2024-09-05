@@ -1,5 +1,5 @@
 ---
 title: "Manolita"
 url: /jaca/manolita/
-shop: confitería
+shop: Süßwaren
 ---

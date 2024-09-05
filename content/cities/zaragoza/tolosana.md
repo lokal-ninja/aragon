@@ -1,5 +1,5 @@
 ---
 title: "Tolosana"
 url: /zaragoza/tolosana/
-shop: pastelería
+shop: Konditorei
 ---

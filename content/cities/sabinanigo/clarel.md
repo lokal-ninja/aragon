@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /sabinanigo/clarel/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Veloz"
 url: /huesca/veloz/
-shop: ropa
+shop: Kleidung
 ---

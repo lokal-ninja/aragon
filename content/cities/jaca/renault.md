@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /jaca/renault/
-shop: coche
+shop: Autohaus
 ---

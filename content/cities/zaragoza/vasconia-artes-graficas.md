@@ -1,5 +1,5 @@
 ---
 title: "Vasconia Artes Gráficas"
 url: /zaragoza/vasconia-artes-graficas/
-shop: copyshop
+shop: Kopieren
 ---

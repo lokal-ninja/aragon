@@ -1,5 +1,5 @@
 ---
 title: "Chocante"
 url: /jaca/chocante/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulanka"
 url: /zaragoza/ulanka/
-shop: zapatos
+shop: Schuhe
 ---

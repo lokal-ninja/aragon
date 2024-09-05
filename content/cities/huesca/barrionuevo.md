@@ -1,5 +1,5 @@
 ---
 title: "Barrionuevo"
 url: /huesca/barrionuevo/
-shop: frutería
+shop: Gemüse & Obst
 ---

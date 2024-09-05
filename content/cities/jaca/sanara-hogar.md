@@ -1,5 +1,5 @@
 ---
 title: "Sanara Hogar"
 url: /jaca/sanara-hogar/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

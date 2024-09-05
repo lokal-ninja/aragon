@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
 url: /pedrola/estanco/
-shop: tabaco
+shop: Tabak
 ---

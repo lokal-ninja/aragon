@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
 url: /zaragoza/hipercor/
-shop: supermercado
+shop: Supermarkt
 ---

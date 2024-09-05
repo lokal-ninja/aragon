@@ -1,5 +1,5 @@
 ---
 title: "Alcober"
 url: /valdeltormo/alcober/
-shop: supermercado
+shop: Supermarkt
 ---

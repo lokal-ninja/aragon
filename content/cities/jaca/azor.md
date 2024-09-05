@@ -1,5 +1,5 @@
 ---
 title: "Azor"
 url: /jaca/azor/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

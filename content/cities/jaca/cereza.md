@@ -1,5 +1,5 @@
 ---
 title: "Cereza"
 url: /jaca/cereza/
-shop: ropa
+shop: Kleidung
 ---

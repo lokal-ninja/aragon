@@ -1,5 +1,5 @@
 ---
 title: "VidaBikes"
 url: /zaragoza/vidabikes/
-shop: bicicleta
+shop: Fahrrad
 ---

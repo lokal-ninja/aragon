@@ -1,5 +1,5 @@
 ---
 title: "Dóndola"
 url: /zaragoza/dondola/
-shop: ropa
+shop: Kleidung
 ---

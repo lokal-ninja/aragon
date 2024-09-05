@@ -1,5 +1,5 @@
 ---
 title: "Decocenter"
 url: /jaca/decocenter/
-shop: pintura
+shop: Farben
 ---

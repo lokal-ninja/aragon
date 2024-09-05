@@ -1,5 +1,5 @@
 ---
 title: "Kaymo"
 url: /zaragoza/kaymo/
-shop: zapatos
+shop: Schuhe
 ---
