@@ -1,5 +1,5 @@
 ---
 title: "Talleres Rillo Royo CVJ"
 url: /perales-del-alfambra/talleres-rillo-royo-cvj/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

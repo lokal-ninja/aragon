@@ -1,5 +1,5 @@
 ---
 title: "Creta Complementos"
 url: /jaca/creta-complementos/
-shop: Kleidung
+shop: ropa
 ---

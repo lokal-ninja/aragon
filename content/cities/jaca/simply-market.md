@@ -1,5 +1,5 @@
 ---
 title: "Simply Market"
 url: /jaca/simply-market/
-shop: Supermarkt
+shop: supermercado
 ---

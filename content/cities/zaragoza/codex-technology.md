@@ -1,5 +1,5 @@
 ---
 title: "Codex Technology"
 url: /zaragoza/codex-technology/
-shop: Handy
+shop: teléfono móvil
 ---

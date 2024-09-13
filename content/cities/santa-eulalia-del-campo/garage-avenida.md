@@ -1,5 +1,5 @@
 ---
 title: "Garage Avenida"
 url: /santa-eulalia-del-campo/garage-avenida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Paz"
 url: /zaragoza/funeraria-la-paz/
-shop: Bestattungen
+shop: directores de funerarias
 ---

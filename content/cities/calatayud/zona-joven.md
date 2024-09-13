@@ -1,5 +1,5 @@
 ---
 title: "Zona Joven"
 url: /calatayud/zona-joven/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Izas"
 url: /jaca/izas/
-shop: Kleidung
+shop: ropa
 ---

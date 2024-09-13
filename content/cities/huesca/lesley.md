@@ -1,5 +1,5 @@
 ---
 title: "Lesley"
 url: /huesca/lesley/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sisters"
 url: /fraga/sisters/
-shop: Kleidung
+shop: ropa
 ---

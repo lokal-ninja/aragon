@@ -1,5 +1,5 @@
 ---
 title: "Angelines"
 url: /zaragoza/angelines/
-shop: Schreibwaren
+shop: material de oficina
 ---

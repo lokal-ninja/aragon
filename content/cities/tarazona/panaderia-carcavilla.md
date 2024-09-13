@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Carcavilla"
 url: /tarazona/panaderia-carcavilla/
-shop: Bäckerei
+shop: panadería
 ---

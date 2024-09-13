@@ -1,5 +1,5 @@
 ---
 title: "Lavanderías Roygel"
 url: /sallent-de-gallego/lavanderias-roygel/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /caspe/alcampo/
-shop: Supermarkt
+shop: supermercado
 ---

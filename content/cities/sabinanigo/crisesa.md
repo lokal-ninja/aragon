@@ -1,5 +1,5 @@
 ---
 title: "Crisesa"
 url: /sabinanigo/crisesa/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "num"
 url: /huesca/num/
-shop: Kleidung
+shop: ropa
 ---

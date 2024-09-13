@@ -1,5 +1,5 @@
 ---
 title: "Altoaragón"
 url: /sabinanigo/altoaragon/
-shop: Badezimmer
+shop: cuarto de baño
 ---

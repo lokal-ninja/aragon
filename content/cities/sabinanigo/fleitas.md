@@ -1,5 +1,5 @@
 ---
 title: "Fleitas"
 url: /sabinanigo/fleitas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

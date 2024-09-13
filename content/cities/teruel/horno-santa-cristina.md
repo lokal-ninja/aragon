@@ -1,5 +1,5 @@
 ---
 title: "Horno Santa Cristina"
 url: /teruel/horno-santa-cristina/
-shop: Bäckerei
+shop: panadería
 ---

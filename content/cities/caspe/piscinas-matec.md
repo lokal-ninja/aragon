@@ -1,5 +1,5 @@
 ---
 title: "Piscinas Matec"
 url: /caspe/piscinas-matec/
-shop: Pool
+shop: piscina
 ---

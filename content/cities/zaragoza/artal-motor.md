@@ -1,5 +1,5 @@
 ---
 title: "Artal Motor"
 url: /zaragoza/artal-motor/
-shop: Autohaus
+shop: coche
 ---

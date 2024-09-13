@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Santa Orosia"
 url: /sabinanigo/tanatorio-santa-orosia/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Viñao"
 url: /jaca/carniceria-vinao/
-shop: Metzgerei
+shop: carnicero
 ---

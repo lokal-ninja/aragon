@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Sánchez"
 url: /teruel/repuestos-sanchez/
-shop: Fahrrad
+shop: bicicleta
 ---

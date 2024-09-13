@@ -1,5 +1,5 @@
 ---
 title: "Pastelería La Suiza"
 url: /jaca/pasteleria-la-suiza/
-shop: Bäckerei
+shop: panadería
 ---

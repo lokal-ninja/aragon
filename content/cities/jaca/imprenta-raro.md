@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Raro"
 url: /jaca/imprenta-raro/
-shop: Schreibwaren
+shop: material de oficina
 ---

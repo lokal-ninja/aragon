@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /cuarte/decathlon/
-shop: Sport
+shop: deportes
 ---

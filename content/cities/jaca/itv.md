@@ -1,5 +1,5 @@
 ---
 title: "Itv"
 url: /jaca/itv/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

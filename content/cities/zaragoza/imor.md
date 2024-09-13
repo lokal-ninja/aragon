@@ -1,5 +1,5 @@
 ---
 title: "Imor"
 url: /zaragoza/imor/
-shop: Möbel
+shop: muebles
 ---

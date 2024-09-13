@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /huesca/zeeman/
-shop: Kleidung
+shop: ropa
 ---

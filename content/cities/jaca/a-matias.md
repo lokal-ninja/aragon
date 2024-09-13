@@ -1,5 +1,5 @@
 ---
 title: "A. Matías"
 url: /jaca/a-matias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

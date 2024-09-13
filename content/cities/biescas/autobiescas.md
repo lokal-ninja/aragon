@@ -1,5 +1,5 @@
 ---
 title: "AutoBiescas"
 url: /biescas/autobiescas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

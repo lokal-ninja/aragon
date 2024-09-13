@@ -1,5 +1,5 @@
 ---
 title: "Samoa"
 url: /zaragoza/samoa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quesos de Radiquero"
 url: /adahuesca/quesos-de-radiquero/
-shop: Käse
+shop: queso
 ---

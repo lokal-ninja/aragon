@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio de Samper de Calanda"
 url: /samper-de-calanda/tanatorio-de-samper-de-calanda/
-shop: Bestattungen
+shop: directores de funerarias
 ---

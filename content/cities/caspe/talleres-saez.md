@@ -1,5 +1,5 @@
 ---
 title: "Talleres Sáez"
 url: /caspe/talleres-saez/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

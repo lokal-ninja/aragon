@@ -1,5 +1,5 @@
 ---
 title: "Candeleta"
 url: /huesca/candeleta/
-shop: Kleidung
+shop: ropa
 ---

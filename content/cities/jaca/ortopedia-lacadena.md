@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Lacadena"
 url: /jaca/ortopedia-lacadena/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

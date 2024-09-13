@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Javier"
 url: /jaca/carniceria-javier/
-shop: Metzgerei
+shop: carnicero
 ---

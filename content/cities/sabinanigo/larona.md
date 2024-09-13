@@ -1,5 +1,5 @@
 ---
 title: "Larona"
 url: /sabinanigo/larona/
-shop: Supermarkt
+shop: supermercado
 ---

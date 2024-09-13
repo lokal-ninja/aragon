@@ -1,5 +1,5 @@
 ---
 title: "Bekana"
 url: /jaca/bekana/
-shop: Möbel
+shop: muebles
 ---

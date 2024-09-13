@@ -1,5 +1,5 @@
 ---
 title: "Embutidos Graus"
 url: /graus/embutidos-graus/
-shop: Metzgerei
+shop: carnicero
 ---

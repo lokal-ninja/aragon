@@ -1,5 +1,5 @@
 ---
 title: "Merca Asia"
 url: /sabinanigo/merca-asia/
-shop: Kramladen
+shop: tienda de variedades
 ---

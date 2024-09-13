@@ -1,5 +1,5 @@
 ---
 title: "Euro-Asia"
 url: /jaca/euro-asia/
-shop: Kramladen
+shop: tienda de variedades
 ---

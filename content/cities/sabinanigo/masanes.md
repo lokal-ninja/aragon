@@ -1,5 +1,5 @@
 ---
 title: "Masanés"
 url: /sabinanigo/masanes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

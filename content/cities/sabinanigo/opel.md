@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /sabinanigo/opel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

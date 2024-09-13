@@ -1,5 +1,5 @@
 ---
 title: "Alex Movilex"
 url: /zaragoza/alex-movilex/
-shop: Handy
+shop: teléfono móvil
 ---

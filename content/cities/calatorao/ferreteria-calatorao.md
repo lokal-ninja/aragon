@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Calatorao"
 url: /calatorao/ferreteria-calatorao/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

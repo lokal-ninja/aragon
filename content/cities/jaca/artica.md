@@ -1,5 +1,5 @@
 ---
 title: "Ártica"
 url: /jaca/artica/
-shop: Raumausstattung
+shop: decoración interior
 ---

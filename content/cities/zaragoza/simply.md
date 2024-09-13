@@ -1,5 +1,5 @@
 ---
 title: "Simply"
 url: /zaragoza/simply/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza China"
 url: /caspe/plaza-china/
-shop: Andenken
+shop: regalo
 ---

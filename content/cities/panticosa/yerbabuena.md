@@ -1,5 +1,5 @@
 ---
 title: "Yerbabuena"
 url: /panticosa/yerbabuena/
-shop: Raumausstattung
+shop: decoración interior
 ---

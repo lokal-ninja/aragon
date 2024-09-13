@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /estadilla/mary/
-shop: Metzgerei
+shop: carnicero
 ---

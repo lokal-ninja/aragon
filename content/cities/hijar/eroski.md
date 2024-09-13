@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /hijar/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San Blas"
 url: /hijar/san-blas/
-shop: Metzgerei
+shop: carnicero
 ---

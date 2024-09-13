@@ -1,5 +1,5 @@
 ---
 title: "Elena Soriano"
 url: /teruel/elena-soriano/
-shop: Kleidung
+shop: ropa
 ---

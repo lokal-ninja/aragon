@@ -1,5 +1,5 @@
 ---
 title: "BdB Gasca"
 url: /caspe/bdb-gasca/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

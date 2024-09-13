@@ -1,5 +1,5 @@
 ---
 title: "ArteVIVO"
 url: /zaragoza/artevivo/
-shop: Schreibwaren
+shop: material de oficina
 ---

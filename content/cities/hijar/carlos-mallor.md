@@ -1,5 +1,5 @@
 ---
 title: "Carlos Mallor"
 url: /hijar/carlos-mallor/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zafiro Tours"
 url: /zaragoza/zafiro-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

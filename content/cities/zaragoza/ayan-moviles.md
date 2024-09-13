@@ -1,5 +1,5 @@
 ---
 title: "Ayan móviles"
 url: /zaragoza/ayan-moviles/
-shop: Handy
+shop: teléfono móvil
 ---

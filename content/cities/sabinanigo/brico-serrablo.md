@@ -1,5 +1,5 @@
 ---
 title: "Brico Serrablo"
 url: /sabinanigo/brico-serrablo/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

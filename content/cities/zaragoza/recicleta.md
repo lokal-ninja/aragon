@@ -1,5 +1,5 @@
 ---
 title: "Recicleta"
 url: /zaragoza/recicleta/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Navas"
 url: /sabinanigo/tanatorio-navas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

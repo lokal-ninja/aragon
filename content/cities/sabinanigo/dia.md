@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /sabinanigo/dia/
-shop: Supermarkt
+shop: supermercado
 ---

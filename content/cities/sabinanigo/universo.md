@@ -1,5 +1,5 @@
 ---
 title: "Universo"
 url: /sabinanigo/universo/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

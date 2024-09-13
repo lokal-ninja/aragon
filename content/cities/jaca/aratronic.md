@@ -1,5 +1,5 @@
 ---
 title: "Aratronic"
 url: /jaca/aratronic/
-shop: Computer
+shop: ordenador
 ---

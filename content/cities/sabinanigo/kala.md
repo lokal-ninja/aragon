@@ -1,5 +1,5 @@
 ---
 title: "Kala"
 url: /sabinanigo/kala/
-shop: Schneiderei
+shop: sastre
 ---

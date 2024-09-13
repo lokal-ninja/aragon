@@ -1,5 +1,5 @@
 ---
 title: "Nissan Morera"
 url: /huesca/nissan-morera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlota"
 url: /jaca/carlota/
-shop: Kleidung
+shop: ropa
 ---

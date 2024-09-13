@@ -1,5 +1,5 @@
 ---
 title: "Essence"
 url: /zaragoza/essence/
-shop: Kosmetik
+shop: cosméticos
 ---

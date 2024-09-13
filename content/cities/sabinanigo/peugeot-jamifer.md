@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Jamifer"
 url: /sabinanigo/peugeot-jamifer/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

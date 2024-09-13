@@ -1,5 +1,5 @@
 ---
 title: "Canela en Rama"
 url: /zaragoza/canela-en-rama/
-shop: Kleidung
+shop: ropa
 ---

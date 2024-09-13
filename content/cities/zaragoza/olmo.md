@@ -1,5 +1,5 @@
 ---
 title: "Olmo"
 url: /zaragoza/olmo/
-shop: Möbel
+shop: muebles
 ---

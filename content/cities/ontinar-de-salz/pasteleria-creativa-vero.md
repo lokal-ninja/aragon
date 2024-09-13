@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Creativa Vero"
 url: /ontinar-de-salz/pasteleria-creativa-vero/
-shop: Bäckerei
+shop: panadería
 ---

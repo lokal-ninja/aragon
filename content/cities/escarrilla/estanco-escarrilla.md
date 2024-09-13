@@ -1,5 +1,5 @@
 ---
 title: "Estanco Escarrilla"
 url: /escarrilla/estanco-escarrilla/
-shop: Tabak
+shop: tabaco
 ---

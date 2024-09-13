@@ -1,5 +1,5 @@
 ---
 title: "Musicopolix"
 url: /zaragoza/musicopolix/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Armería Shooting Range Zaragoza"
 url: /zaragoza/armeria-shooting-range-zaragoza/
-shop: Allgemein
+shop: general
 ---

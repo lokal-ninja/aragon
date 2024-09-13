@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Pirineos"
 url: /jaca/tanatorio-pirineos/
-shop: Bestattungen
+shop: directores de funerarias
 ---

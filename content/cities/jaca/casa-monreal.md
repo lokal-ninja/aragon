@@ -1,5 +1,5 @@
 ---
 title: "Casa Monreal"
 url: /jaca/casa-monreal/
-shop: Kleidung
+shop: ropa
 ---

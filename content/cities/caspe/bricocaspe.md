@@ -1,5 +1,5 @@
 ---
 title: "Bricocaspe"
 url: /caspe/bricocaspe/
-shop: Eisenwaren
+shop: hardware
 ---

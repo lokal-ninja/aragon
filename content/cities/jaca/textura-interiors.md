@@ -1,5 +1,5 @@
 ---
 title: "Textura Interiors"
 url: /jaca/textura-interiors/
-shop: Raumausstattung
+shop: decoración interior
 ---

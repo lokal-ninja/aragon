@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /jaca/boots/
-shop: Schuhe
+shop: zapatos
 ---

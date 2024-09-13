@@ -1,5 +1,5 @@
 ---
 title: "Zeeman Zaragoza - Domenech"
 url: /zaragoza/zeeman-zaragoza-domenech/
-shop: Kleidung
+shop: ropa
 ---

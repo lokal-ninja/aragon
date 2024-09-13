@@ -1,5 +1,5 @@
 ---
 title: "Sanchez Bielsa"
 url: /la-muela/sanchez-bielsa/
-shop: Tabak
+shop: tabaco
 ---

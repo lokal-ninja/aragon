@@ -1,5 +1,5 @@
 ---
 title: "Los Porches del Audiorama"
 url: /zaragoza/los-porches-del-audiorama/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

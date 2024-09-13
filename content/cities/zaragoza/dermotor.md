@@ -1,5 +1,5 @@
 ---
 title: "Dermotor"
 url: /zaragoza/dermotor/
-shop: Motorrad
+shop: motocicleta
 ---

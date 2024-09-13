@@ -1,5 +1,5 @@
 ---
 title: "Recimática"
 url: /zaragoza/recimatica/
-shop: Schreibwaren
+shop: material de oficina
 ---

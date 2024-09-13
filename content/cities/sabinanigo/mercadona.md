@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /sabinanigo/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

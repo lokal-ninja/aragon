@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /fraga/zeeman/
-shop: Kleidung
+shop: ropa
 ---

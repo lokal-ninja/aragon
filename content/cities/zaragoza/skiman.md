@@ -1,5 +1,5 @@
 ---
 title: "Skiman"
 url: /zaragoza/skiman/
-shop: Sport
+shop: deportes
 ---

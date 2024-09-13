@@ -1,5 +1,5 @@
 ---
 title: "Palomar"
 url: /huesca/palomar/
-shop: Bäckerei
+shop: panadería
 ---

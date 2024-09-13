@@ -1,5 +1,5 @@
 ---
 title: "Induhogar"
 url: /sabinanigo/induhogar/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /zaragoza/decathlon/
-shop: Sport
+shop: deportes
 ---

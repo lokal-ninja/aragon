@@ -1,5 +1,5 @@
 ---
 title: "Talleres Martorell"
 url: /benabarre/talleres-martorell/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

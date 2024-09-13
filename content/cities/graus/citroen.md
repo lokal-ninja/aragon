@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /graus/citroen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shiva Viajes"
 url: /jaca/shiva-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

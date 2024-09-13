@@ -1,5 +1,5 @@
 ---
 title: "Pyrene"
 url: /biescas/pyrene/
-shop: Feinkost
+shop: charcutería
 ---

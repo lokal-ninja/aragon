@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Amalia"
 url: /santa-eulalia-del-campo/peluqueria-amalia/
-shop: Friseur
+shop: peluquería
 ---

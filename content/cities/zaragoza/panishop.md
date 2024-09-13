@@ -1,5 +1,5 @@
 ---
 title: "Panishop"
 url: /zaragoza/panishop/
-shop: Bäckerei
+shop: panadería
 ---

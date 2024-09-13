@@ -1,5 +1,5 @@
 ---
 title: "Trufapasión"
 url: /estadilla/trufapasion/
-shop: Feinkost
+shop: charcutería
 ---

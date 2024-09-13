@@ -1,5 +1,5 @@
 ---
 title: "Ecomputer"
 url: /sabinanigo/ecomputer/
-shop: Computer
+shop: ordenador
 ---

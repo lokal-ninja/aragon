@@ -1,5 +1,5 @@
 ---
 title: "Bogar"
 url: /zaragoza/bogar/
-shop: Schuhe
+shop: zapatos
 ---

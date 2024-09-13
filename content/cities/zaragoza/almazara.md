@@ -1,5 +1,5 @@
 ---
 title: "Almazara"
 url: /zaragoza/almazara/
-shop: Dorfladen
+shop: tienda rural
 ---

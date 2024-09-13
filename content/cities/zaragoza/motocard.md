@@ -1,5 +1,5 @@
 ---
 title: "Motocard"
 url: /zaragoza/motocard/
-shop: Motorrad
+shop: motocicleta
 ---

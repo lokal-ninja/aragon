@@ -1,5 +1,5 @@
 ---
 title: "Pequeñicos"
 url: /zaragoza/pequenicos/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /alagon/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

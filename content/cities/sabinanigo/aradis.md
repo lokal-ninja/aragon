@@ -1,5 +1,5 @@
 ---
 title: "Aradis"
 url: /sabinanigo/aradis/
-shop: Getränke
+shop: bebidas
 ---

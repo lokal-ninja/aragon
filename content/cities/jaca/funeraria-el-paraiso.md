@@ -1,5 +1,5 @@
 ---
 title: "Funeraria El Paraiso"
 url: /jaca/funeraria-el-paraiso/
-shop: Bestattungen
+shop: directores de funerarias
 ---

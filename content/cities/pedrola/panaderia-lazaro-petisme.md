@@ -1,5 +1,5 @@
 ---
 title: "Panadería Lázaro Petisme"
 url: /pedrola/panaderia-lazaro-petisme/
-shop: Bäckerei
+shop: panadería
 ---
