@@ -1,11 +1,11 @@
 id: 386959227
-type: way
+type: node
 latitude: 42.77207
 longitude: -0.33388
 postcode: "22640"
 city: Sallent de Gállego
-street: "Calle de Francia"
-housenumber: 38
+street: Calle de Francia
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

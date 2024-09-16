@@ -4,8 +4,8 @@ latitude: 41.65334
 longitude: -0.90234
 postcode: "50010"
 city: Zaragoza
-street: "Calle de Marcelino Unceta"
-housenumber: 7
+street: Calle de Marcelino Unceta
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,16:30-20:30"
+opening_hours: Mo-Sa 10:00-14:00,16:30-20:30
 website: ""

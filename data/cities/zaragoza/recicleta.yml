@@ -4,8 +4,8 @@ latitude: 41.64975
 longitude: -0.87077
 postcode: "50002"
 city: Zaragoza
-street: "Calle Asalto"
-housenumber: 69
-phone: "+34 976 29 58 00"
+street: Calle Asalto
+housenumber: "69"
+phone: +34 976 29 58 00
 opening_hours: ""
-website: "https://www.recicleta.com/"
+website: https://www.recicleta.com/

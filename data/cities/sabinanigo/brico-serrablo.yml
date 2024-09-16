@@ -1,11 +1,11 @@
 id: 380685453
-type: way
+type: node
 latitude: 42.52451
 longitude: -0.36013
 postcode: "22600"
 city: Sabiñánigo
-street: "Avenida de Biescas"
-housenumber: 
+street: Avenida de Biescas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:30,15:30-19:30; Sa 09:30-13:30"
+opening_hours: Mo-Fr 08:30-13:30,15:30-19:30; Sa 09:30-13:30
 website: ""

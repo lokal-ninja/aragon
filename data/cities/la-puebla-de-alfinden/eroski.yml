@@ -4,8 +4,8 @@ latitude: 41.63186
 longitude: -0.75206
 postcode: "50171"
 city: La Puebla de Alfindén
-street: "Mayor"
-housenumber: 
+street: Mayor
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.eroski.es/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.eroski.es/

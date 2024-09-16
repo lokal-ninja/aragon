@@ -1,11 +1,11 @@
 id: 652431067
-type: way
+type: node
 latitude: 41.17384
 longitude: -0.44995
 postcode: "44530"
 city: Híjar
-street: "Calle San Blas"
-housenumber: 37
+street: Calle San Blas
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

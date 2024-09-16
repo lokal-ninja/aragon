@@ -1,11 +1,11 @@
 id: 380788637
-type: way
+type: node
 latitude: 42.52593
 longitude: -0.35924
 postcode: "22600"
 city: Sabiñánigo
-street: "Calle José Lastiesas"
-housenumber: 12
+street: Calle José Lastiesas
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

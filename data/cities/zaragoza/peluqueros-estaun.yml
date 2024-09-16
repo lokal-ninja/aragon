@@ -4,8 +4,8 @@ latitude: 41.64042
 longitude: -0.88301
 postcode: "50007"
 city: Zaragoza
-street: "Avenida de Tenor Fleta"
-housenumber: 38
+street: Avenida de Tenor Fleta
+housenumber: "38"
 phone: "+34976382811"
-opening_hours: "Mo-Fr 10:00-14:00; Sa 10:00-14:00"
-website: "http://www.estaunpeluqueros.es/"
+opening_hours: Mo-Fr 10:00-14:00; Sa 10:00-14:00
+website: http://www.estaunpeluqueros.es/

@@ -1,11 +1,11 @@
 id: 448863327
-type: way
+type: node
 latitude: 42.51276
 longitude: -0.35728
 postcode: "22600"
 city: Sabiñánigo
-street: "Avenida de Huesca"
-housenumber: 
+street: Avenida de Huesca
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 42.56826
 longitude: -0.5516
 postcode: "22700"
 city: Jaca
-street: "Calle de Correos"
-housenumber: 4
+street: Calle de Correos
+housenumber: "4"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 09:00-14:00, 17:00-20:00; We 09:00-14:00; Sa 09:00-14:00, 17:00-19:30"
+opening_hours: Mo, Tu, Th, Fr 09:00-14:00, 17:00-20:00; We 09:00-14:00; Sa 09:00-14:00,
+    17:00-19:30
 website: ""

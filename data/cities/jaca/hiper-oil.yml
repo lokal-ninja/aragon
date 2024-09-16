@@ -1,11 +1,11 @@
 id: 498023014
-type: way
+type: node
 latitude: 42.56357
 longitude: -0.56848
 postcode: "22700"
 city: Jaca
-street: "Calle Río Aragón"
-housenumber: 1
+street: Calle Río Aragón
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

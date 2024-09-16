@@ -4,8 +4,8 @@ latitude: 41.90815
 longitude: -0.21449
 postcode: "22212"
 city: Alberuela de Tubo
-street: "Calle de San Lorenzo"
-housenumber: 1
-phone: "+34 974 23 20 23"
-opening_hours: "Mo-Fr 10:00-14:00"
+street: Calle de San Lorenzo
+housenumber: "1"
+phone: +34 974 23 20 23
+opening_hours: Mo-Fr 10:00-14:00
 website: ""

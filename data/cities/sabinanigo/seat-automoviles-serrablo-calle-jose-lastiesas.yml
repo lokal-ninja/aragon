@@ -1,11 +1,11 @@
 id: 382892232
-type: way
+type: node
 latitude: 42.52341
 longitude: -0.35937
 postcode: "22600"
 city: Sabiñánigo
-street: "Calle José Lastiesas"
-housenumber: 
-phone: "+34 974 48 10 15"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-20:00; Sa 08:00-13:00"
+street: Calle José Lastiesas
+housenumber: ""
+phone: +34 974 48 10 15
+opening_hours: Mo-Fr 08:00-13:00,15:00-20:00; Sa 08:00-13:00
 website: ""

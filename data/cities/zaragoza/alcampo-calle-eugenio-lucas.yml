@@ -1,11 +1,11 @@
 id: 672290471
-type: way
+type: node
 latitude: 41.68826
 longitude: -0.87482
 postcode: "50018"
 city: Zaragoza
-street: "Calle Eugenio Lucas"
-housenumber: 1
+street: Calle Eugenio Lucas
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

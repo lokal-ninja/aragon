@@ -4,8 +4,8 @@ latitude: 42.19189
 longitude: 0.34077
 postcode: "22430"
 city: Graus
-street: "Avenida Valle de Aran"
-housenumber: 3
+street: Avenida Valle de Aran
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00; Sa,Su,PH off"
-website: "https://www.eurorepar.es/taller-es-bipesa-graus-8475.html"
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00; Sa,Su,PH off
+website: https://www.eurorepar.es/taller-es-bipesa-graus-8475.html

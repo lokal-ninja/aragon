@@ -4,8 +4,8 @@ latitude: 42.14125
 longitude: -0.39583
 postcode: "22006"
 city: Huesca
-street: "Valencia"
-housenumber: 14
-phone: "+34 974 240704"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-20:00"
+street: Valencia
+housenumber: "14"
+phone: +34 974 240704
+opening_hours: Mo-Fr 09:00-14:00,17:00-20:00
 website: ""

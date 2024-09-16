@@ -1,11 +1,11 @@
 id: 1055210318
-type: way
+type: node
 latitude: 42.03933
 longitude: 0.12609
 postcode: "22300"
 city: Barbastro
-street: "Calle de Luis Buñuel"
-housenumber: 7
+street: Calle de Luis Buñuel
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

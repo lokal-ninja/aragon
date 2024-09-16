@@ -1,11 +1,11 @@
 id: 380993386
-type: way
+type: node
 latitude: 42.52063
 longitude: -0.35824
 postcode: "22600"
 city: Sabiñánigo
-street: "Calle Asún"
-housenumber: 
+street: Calle Asún
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.56892
 longitude: -0.54936
 postcode: "22700"
 city: Jaca
-street: "Calle de Ramón y Cajal"
-housenumber: 3
+street: Calle de Ramón y Cajal
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30, 17:00-20:30; Sa 10:00-13:30"
+opening_hours: Mo-Fr 09:30-13:30, 17:00-20:30; Sa 10:00-13:30
 website: ""

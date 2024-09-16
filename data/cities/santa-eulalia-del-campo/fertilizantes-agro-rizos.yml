@@ -1,11 +1,11 @@
 id: 989328994
-type: way
+type: node
 latitude: 40.56582
 longitude: -1.32176
 postcode: "44360"
 city: Santa Eulalia del Campo
-street: "Extramuros"
-housenumber: 
+street: Extramuros
+housenumber: ""
 phone: "+34949841148"
 opening_hours: ""
-website: "https://agrorizos.com/"
+website: https://agrorizos.com/

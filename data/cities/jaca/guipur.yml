@@ -1,11 +1,11 @@
 id: 403662536
-type: way
+type: node
 latitude: 42.57046
 longitude: -0.54844
 postcode: "22700"
 city: Jaca
-street: "Calle Zocotín"
-housenumber: 20
+street: Calle Zocotín
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

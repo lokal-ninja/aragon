@@ -4,8 +4,8 @@ latitude: 41.64599
 longitude: -0.8839
 postcode: "50008"
 city: Zaragoza
-street: "Calle de Pedro María Ric"
-housenumber: 5
+street: Calle de Pedro María Ric
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,16:00-20:00"
+opening_hours: Mo-Fr 09:00-13:00,16:00-20:00
 website: ""

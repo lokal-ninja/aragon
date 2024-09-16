@@ -4,8 +4,8 @@ latitude: 41.64553
 longitude: -0.88265
 postcode: "50008"
 city: Zaragoza
-street: "Calle de León XIII"
-housenumber: 21
-phone: "+34 976 236 030"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-14:00"
-website: "https://www.ulloaoptico.com/centro-ulloa-optico-en-zaragoza-leon-xiii-21/"
+street: Calle de León XIII
+housenumber: "21"
+phone: +34 976 236 030
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-14:00
+website: https://www.ulloaoptico.com/centro-ulloa-optico-en-zaragoza-leon-xiii-21/

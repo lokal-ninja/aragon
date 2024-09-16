@@ -1,11 +1,11 @@
 id: 321061694
-type: way
+type: node
 latitude: 42.68985
 longitude: -0.30573
 postcode: "22662"
 city: Hoz de Jaca
-street: "Avenida del Mirador"
-housenumber: 6
+street: Avenida del Mirador
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

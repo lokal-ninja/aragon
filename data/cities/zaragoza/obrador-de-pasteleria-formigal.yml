@@ -4,8 +4,8 @@ latitude: 41.66821
 longitude: -0.82446
 postcode: "50016"
 city: Zaragoza
-street: "Calle Pilar Lapuente Mercadal"
-housenumber: 3
-phone: "+34 976 57 41 34"
-opening_hours: "07:00-15:00"
+street: Calle Pilar Lapuente Mercadal
+housenumber: "3"
+phone: +34 976 57 41 34
+opening_hours: 07:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 676137311
-type: way
+type: node
 latitude: 41.63474
 longitude: -0.94514
 postcode: "50012"
 city: Zaragoza
-street: "Calle Ludwig Van Beethoven"
-housenumber: 2
+street: Calle Ludwig Van Beethoven
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

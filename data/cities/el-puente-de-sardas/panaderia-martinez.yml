@@ -1,11 +1,11 @@
 id: 397175285
-type: way
+type: node
 latitude: 42.5084
 longitude: -0.35718
 postcode: "22600"
 city: El Puente de Sardas
-street: "Avenida del Ejército"
-housenumber: 20
+street: Avenida del Ejército
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Su 09:00-13:45"
+opening_hours: Mo-Su 09:00-13:45
 website: ""

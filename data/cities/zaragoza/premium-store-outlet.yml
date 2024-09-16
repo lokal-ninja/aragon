@@ -4,8 +4,8 @@ latitude: 41.64935
 longitude: -0.8885
 postcode: ""
 city: Zaragoza
-street: "Calle Hernán Cortés"
-housenumber: 8
+street: Calle Hernán Cortés
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:00"
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:00
 website: ""

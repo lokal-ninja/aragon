@@ -4,8 +4,8 @@ latitude: 41.23353
 longitude: -0.05006
 postcode: "50700"
 city: Caspe
-street: "Camino del Batán"
-housenumber: 
+street: Camino del Batán
+housenumber: ""
 phone: "+34976630824"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-19:00"
-website: "https://www.vsancho.es/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-19:00
+website: https://www.vsancho.es/

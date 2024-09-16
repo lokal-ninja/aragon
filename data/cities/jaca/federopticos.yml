@@ -4,8 +4,8 @@ latitude: 42.56916
 longitude: -0.54909
 postcode: "22700"
 city: Jaca
-street: "Calle Mayor"
-housenumber: 26
+street: Calle Mayor
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:30; Mo-Fr 16:30-20:00"
+opening_hours: Mo-Sa 09:30-13:30; Mo-Fr 16:30-20:00
 website: ""

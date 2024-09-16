@@ -4,8 +4,8 @@ latitude: 41.64004
 longitude: -0.89607
 postcode: "50009"
 city: Zaragoza
-street: "Paseo de Fernando El Católico"
-housenumber: 42
-phone: "+34 976951199"
-opening_hours: "Mo-Sa 09:00-21:30; Su 09:00-15:00"
-website: "https://www.bonarea.com/tienda/42792"
+street: Paseo de Fernando El Católico
+housenumber: "42"
+phone: +34 976951199
+opening_hours: Mo-Sa 09:00-21:30; Su 09:00-15:00
+website: https://www.bonarea.com/tienda/42792

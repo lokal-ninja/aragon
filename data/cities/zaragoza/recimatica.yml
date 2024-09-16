@@ -4,8 +4,8 @@ latitude: 41.67024
 longitude: -0.82519
 postcode: "50016"
 city: Zaragoza
-street: "Avenida de los Estudiantes"
-housenumber: 38
-phone: "+34 976 138 128"
-opening_hours: "Mo-Fr 09:00-15:00,17:00-20:00"
-website: "https://www.liderpapel.com"
+street: Avenida de los Estudiantes
+housenumber: "38"
+phone: +34 976 138 128
+opening_hours: Mo-Fr 09:00-15:00,17:00-20:00
+website: https://www.liderpapel.com

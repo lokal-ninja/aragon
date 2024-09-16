@@ -4,8 +4,8 @@ latitude: 41.63579
 longitude: -0.87496
 postcode: "50007"
 city: Zaragoza
-street: "Camino de Puente Virrey"
-housenumber: 74
-phone: "+34 976 37 92 50"
-opening_hours: "Mo-Su 09:30-13:30,16:30-20:30; Sa 09:30-13:30"
-website: "https://www.roymar.es/"
+street: Camino de Puente Virrey
+housenumber: "74"
+phone: +34 976 37 92 50
+opening_hours: Mo-Su 09:30-13:30,16:30-20:30; Sa 09:30-13:30
+website: https://www.roymar.es/

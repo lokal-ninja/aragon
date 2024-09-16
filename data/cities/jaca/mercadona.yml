@@ -1,11 +1,11 @@
 id: 118393279
-type: way
+type: node
 latitude: 42.56535
 longitude: -0.5649
 postcode: "22700"
 city: Jaca
-street: "Avenida de Nuestra Señora de la Victoria"
-housenumber: 
+street: Avenida de Nuestra Señora de la Victoria
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 432941890
-type: way
+type: node
 latitude: 42.6261
 longitude: -0.11147
 postcode: "22376"
 city: Torla-Ordesa
-street: "Avenida de Ordesa"
-housenumber: 
+street: Avenida de Ordesa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

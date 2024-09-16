@@ -1,11 +1,11 @@
 id: 444771041
-type: way
+type: node
 latitude: 42.57184
 longitude: -0.54823
 postcode: "22700"
 city: Jaca
-street: "Avenida de la Escuela Militar de Montaña"
-housenumber: 3
+street: Avenida de la Escuela Militar de Montaña
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00, 17:00-20:30"
+opening_hours: Mo-Sa 10:00-14:00, 17:00-20:30
 website: ""

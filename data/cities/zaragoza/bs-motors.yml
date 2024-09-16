@@ -1,11 +1,11 @@
 id: 554338880
-type: way
+type: node
 latitude: 41.62861
 longitude: -0.91352
 postcode: "50012"
 city: Zaragoza
-street: "Calle de Marcelino Álvarez"
-housenumber: 84
-phone: "+34 976 75 86 89"
+street: Calle de Marcelino Álvarez
+housenumber: "84"
+phone: +34 976 75 86 89
 opening_hours: ""
 website: ""

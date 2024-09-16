@@ -4,8 +4,8 @@ latitude: 41.64336
 longitude: -0.8828
 postcode: "50008"
 city: Zaragoza
-street: "Paseo de las Damas"
-housenumber: 40
+street: Paseo de las Damas
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:30-15:00,15:30-21:30"
+opening_hours: Mo-Sa 09:30-15:00,15:30-21:30
 website: ""

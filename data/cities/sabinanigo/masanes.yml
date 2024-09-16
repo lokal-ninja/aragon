@@ -1,11 +1,11 @@
 id: 382967785
-type: way
+type: node
 latitude: 42.52454
 longitude: -0.35979
 postcode: "22600"
 city: Sabiñánigo
-street: "Calle Ibirque"
-housenumber: 2
+street: Calle Ibirque
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, 15:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-13:00, 15:00-19:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.66371
 longitude: -0.86587
 postcode: "50014"
 city: Zaragoza
-street: "Calle del Marqués de la Cadena"
-housenumber: 64
+street: Calle del Marqués de la Cadena
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.aldi.es/supermercados/encuentra-tu-supermercado/zaragoza/zaragoza/calle-marques-de-la-cadena-64.html"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.aldi.es/supermercados/encuentra-tu-supermercado/zaragoza/zaragoza/calle-marques-de-la-cadena-64.html

@@ -1,11 +1,11 @@
 id: 403459625
-type: way
+type: node
 latitude: 42.62072
 longitude: -0.32574
 postcode: "22630"
 city: Biescas
-street: "Calle La Florida"
-housenumber: 4
+street: Calle La Florida
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

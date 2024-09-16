@@ -4,8 +4,8 @@ latitude: 42.05753
 longitude: 0.24551
 postcode: "22423"
 city: Estadilla
-street: "Calle San Juan"
-housenumber: 30
-phone: "+34 629 620 675"
+street: Calle San Juan
+housenumber: "30"
+phone: +34 629 620 675
 opening_hours: ""
-website: "http://www.trufapasion.com/es/"
+website: http://www.trufapasion.com/es/

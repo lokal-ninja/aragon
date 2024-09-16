@@ -1,11 +1,11 @@
 id: 904449933
-type: way
+type: node
 latitude: 41.17341
 longitude: -0.4503
 postcode: "44530"
 city: Híjar
-street: "Plaza Virgen"
-housenumber: 12
+street: Plaza Virgen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

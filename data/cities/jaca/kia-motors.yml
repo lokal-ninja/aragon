@@ -1,11 +1,11 @@
 id: 405026300
-type: way
+type: node
 latitude: 42.56475
 longitude: -0.56862
 postcode: "22700"
 city: Jaca
-street: "Avenida de Nuestra Señora de la Victoria"
-housenumber: 30
+street: Avenida de Nuestra Señora de la Victoria
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

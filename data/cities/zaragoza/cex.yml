@@ -4,8 +4,8 @@ latitude: 41.65125
 longitude: -0.88467
 postcode: "50004"
 city: Zaragoza
-street: "Plaza Nuestra Señora del Carmen"
-housenumber: 11
+street: Plaza Nuestra Señora del Carmen
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://es.webuy.com/site/storeDetail?branchId=1011"
+opening_hours: Mo-Sa 10:00-21:00
+website: https://es.webuy.com/site/storeDetail?branchId=1011

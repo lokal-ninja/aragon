@@ -1,11 +1,11 @@
 id: 463257566
-type: way
+type: node
 latitude: 42.17168
 longitude: 0.02393
 postcode: "22145"
 city: Alquézar
-street: "arrabal"
-housenumber: 28
-phone: "+34 974 31 89 90"
+street: arrabal
+housenumber: "28"
+phone: +34 974 31 89 90
 opening_hours: ""
-website: "https://alquezarbuenaventura.com/p7090058-2/sp"
+website: https://alquezarbuenaventura.com/p7090058-2/sp

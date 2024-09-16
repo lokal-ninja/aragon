@@ -1,11 +1,11 @@
 id: 382890129
-type: way
+type: node
 latitude: 42.52221
 longitude: -0.35513
 postcode: "22600"
 city: Sabiñánigo
-street: "Calle Secorún"
-housenumber: 
+street: Calle Secorún
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

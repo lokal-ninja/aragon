@@ -4,8 +4,8 @@ latitude: 42.0575
 longitude: 0.24414
 postcode: "22423"
 city: Estadilla
-street: "Plaza Mayor"
-housenumber: 6
-phone: "+34 974305018"
-opening_hours: "Mo-Sa 09:00-13:30"
+street: Plaza Mayor
+housenumber: "6"
+phone: +34 974305018
+opening_hours: Mo-Sa 09:00-13:30
 website: ""

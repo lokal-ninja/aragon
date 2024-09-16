@@ -4,8 +4,8 @@ latitude: 41.62946
 longitude: -0.89012
 postcode: "50007"
 city: Zaragoza
-street: "Calle del Parque"
-housenumber: 38
-phone: "+34 976 25 59 58"
-opening_hours: "Mo-Fr 10:00-13:00, 17:00-20:00; Sa 10:00-13:00"
-website: "http://pinkbikestore.com/"
+street: Calle del Parque
+housenumber: "38"
+phone: +34 976 25 59 58
+opening_hours: Mo-Fr 10:00-13:00, 17:00-20:00; Sa 10:00-13:00
+website: http://pinkbikestore.com/

@@ -1,11 +1,11 @@
 id: 444783801
-type: way
+type: node
 latitude: 42.5638
 longitude: -0.56729
 postcode: "22700"
 city: Jaca
-street: "Calle Río Gállego"
-housenumber: 2
+street: Calle Río Gállego
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

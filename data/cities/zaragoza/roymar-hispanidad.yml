@@ -4,8 +4,8 @@ latitude: 41.64351
 longitude: -0.91201
 postcode: "50009"
 city: Zaragoza
-street: "Calle de las Escuelas Pías"
-housenumber: 2
-phone: "+34 976 45 85 96"
-opening_hours: "Mo-Su 09:30-13:30,16:30-20:30; Sa 09:30-13:30"
-website: "https://www.roymar.es/"
+street: Calle de las Escuelas Pías
+housenumber: "2"
+phone: +34 976 45 85 96
+opening_hours: Mo-Su 09:30-13:30,16:30-20:30; Sa 09:30-13:30
+website: https://www.roymar.es/

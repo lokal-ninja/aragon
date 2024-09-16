@@ -1,11 +1,11 @@
 id: 493243301
-type: way
+type: node
 latitude: 41.16813
 longitude: -0.43629
 postcode: "44530"
 city: Híjar
-street: "Polígono Industrial"
-housenumber: 3
+street: Polígono Industrial
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

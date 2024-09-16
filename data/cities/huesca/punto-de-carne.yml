@@ -4,8 +4,8 @@ latitude: 42.13696
 longitude: -0.41601
 postcode: "22004"
 city: huesca
-street: "Calle Menéndez Pidal"
-housenumber: 9
-phone: "+34 974 43 15 00"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Calle Menéndez Pidal
+housenumber: "9"
+phone: +34 974 43 15 00
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

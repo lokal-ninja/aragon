@@ -4,8 +4,8 @@ latitude: 41.64782
 longitude: -0.89411
 postcode: "50010"
 city: Zaragoza
-street: "Calle de Manuel Escoriaza y Fabro"
-housenumber: 3
-phone: "+34 876 60 00 24"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-14:00"
-website: "http://www.luzero.com/"
+street: Calle de Manuel Escoriaza y Fabro
+housenumber: "3"
+phone: +34 876 60 00 24
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-14:00
+website: http://www.luzero.com/
