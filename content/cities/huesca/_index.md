@@ -1,6 +1,6 @@
 ---
 title: Huesca
 url: /huesca/
-latitude: 42.108
-longitude: -0.449
+latitude: 42.142
+longitude: -0.417
 ---
