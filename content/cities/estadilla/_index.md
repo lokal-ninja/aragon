@@ -1,6 +1,6 @@
 ---
 title: Estadilla
 url: /estadilla/
-latitude: 42.058
+latitude: 42.057
 longitude: 0.244
 ---
