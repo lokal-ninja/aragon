@@ -1,5 +1,5 @@
 ---
-title: "Citroen - Cuidadela Motor"
+title: "Citroën - Cuidadela Motor"
 url: /jaca/citroen-cuidadela-motor/
-shop: reparación de automóviles
+shop: coche
 ---
