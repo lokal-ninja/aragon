@@ -1,6 +1,6 @@
 ---
 title: Barbastro
 url: /barbastro/
-latitude: 42.039
-longitude: 0.126
+latitude: 42.035
+longitude: 0.131
 ---
