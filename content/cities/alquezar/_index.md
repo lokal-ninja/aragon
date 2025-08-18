@@ -1,6 +1,6 @@
 ---
 title: Alquézar
 url: /alquezar/
-latitude: 42.173
-longitude: 0.027
+latitude: 42.172
+longitude: 0.025
 ---
