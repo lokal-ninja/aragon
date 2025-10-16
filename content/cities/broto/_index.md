@@ -1,6 +1,6 @@
 ---
 title: Broto
 url: /broto/
-latitude: 42.604
-longitude: -0.122
+latitude: 42.603
+longitude: -0.123
 ---
