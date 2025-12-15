@@ -1,6 +1,6 @@
 ---
 title: Benabarre
 url: /benabarre/
-latitude: 42.108
-longitude: 0.5
+latitude: 42.106
+longitude: 0.481
 ---
