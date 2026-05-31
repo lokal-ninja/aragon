@@ -7,5 +7,5 @@ city: ateca
 street: Avenida Goya
 housenumber: "2"
 phone: "+34976842384"
-opening_hours: Lunes a sádado 09:00-13:25 Lunes a Viernes 17:00-20:00
+opening_hours: Mo-Fr 09:00-13:25, 17:00-20:00;Sa 09:00-13:25
 website: ""
