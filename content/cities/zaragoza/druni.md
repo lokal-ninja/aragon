@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /zaragoza/druni/
-shop: perfumería
+shop: cosméticos
 ---
